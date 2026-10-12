@@ -1,7 +1,7 @@
 # 📝 Week 02 Evidence Pack: 첫 Flutter 앱 실행 및 환경 구성 기록
 
 * **제출자:** [강명진] ([2023136068])
-* **제출일:** 2026년 10월
+* **제출일:** 2026년 9월 8일
 * **저장소:** (https://github.com/2023136068-ai/week2_first_app.git)
 
 ---
@@ -26,7 +26,7 @@
 - **수정한 문구:** Hello, Flutter!
 - **실행 명령:** `flutter run -d chrome`
 - **실행 대상 (Device):** Chrome (web)
-- **실행 시각:** 2026년 10월
+- **실행 시각:** 2026년 9월 8일
 - **실행 화면 증거:**
   ![첫 앱 실행 화면](./evidence/first_run.png)
 
